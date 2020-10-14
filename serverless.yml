@@ -1,0 +1,8 @@
+org: jeongan
+app: test-server
+component: express
+name: express-starter
+
+inputs:
+  src: ./
+  region: ap-northeast-2

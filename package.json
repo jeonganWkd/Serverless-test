@@ -1,0 +1,35 @@
+{
+  "name": "serverless-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.9",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "path": "^0.12.7",
+    "validator": "^13.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeonganWkd/Serverless-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeonganWkd/Serverless-test/issues"
+  },
+  "homepage": "https://github.com/jeonganWkd/Serverless-test#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }}
+  
